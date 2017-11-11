@@ -1,0 +1,2 @@
+A venus, intento veure que passa quan demano canvis a differents fichers ( en aquest cas, mars.txt i venus.txt)
+
